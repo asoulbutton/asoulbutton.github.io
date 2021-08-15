@@ -27,6 +27,26 @@
           "src": "test4.mp3"
         }
       ]
+    },
+    {
+      "sectionName": "乃琳Eileen",
+      "directoryName": "eileen",
+      "audios": [
+        {
+          "title": "不疲惫的双向奔赴!",
+          "src": "[乃琳]不疲惫的双向奔赴.mp3"
+        }
+      ]
+    },
+    {
+      "sectionName": "向晚Ava",
+      "directoryName": "ava",
+      "audios": [
+        {
+          "title": "她是你爹?!",
+          "src": "[向晚]她是你爹？！.mp3"
+        }
+      ]
     }
   ]
 }
