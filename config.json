@@ -1,7 +1,7 @@
 {
   "sections": [
     {
-      "sectionName": "乃琳Eileen",
+      "sectionName": "乃琳Queen",
       "directoryName": "eileen",
       "audios": [
         {
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "sectionName": "向晚Ava",
+      "sectionName": "向晚大魔王",
       "directoryName": "ava",
       "audios": [
         {
@@ -21,7 +21,21 @@
       ]
     },
     {
-      "sectionName": "嘉然Diana",
+      "sectionName": "贝拉Kira",
+      "directoryName": "bella",
+      "audios": [
+        {
+          "title": "帮我想想嘛！-01",
+          "src": "[bella]帮我想想嘛1.mp3"
+        },
+        {
+          "title": "土味情话-01",
+          "src": "[bella]土味情话-闭嘴.mp3"
+        }
+      ]
+    }
+    {
+      "sectionName": "嘉然今天吃什么",
       "directoryName": "diana",
       "audios": [
         {
