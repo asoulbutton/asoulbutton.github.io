@@ -16,7 +16,27 @@
       "audios": [
         {
           "title": "她是你爹?!",
-          "src": "[ava]她是你爹？！.mp3"
+          "src": "[ava]她是你爹.mp3"
+        }
+      ]
+    },
+    {
+      "sectionName": "嘉然Diana",
+      "directoryName": "diana",
+      "audios": [
+        {
+          "title": "你们在跟SC聊天还是在跟然然聊天?",
+          "src": "[diana]你们在跟SC聊天还是在跟然然聊天.mp3"
+        }
+      ]
+    },
+    {
+      "sectionName": "珈乐Carol",
+      "directoryName": "carol",
+      "audios": [
+        {
+          "title": "我会一直在~",
+          "src": "[carol]我会一直在.mp3"
         }
       ]
     }
